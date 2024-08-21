@@ -1,0 +1,9 @@
+.new_counter_heading{
+    text-align: center;
+}
+.new_counter_container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
